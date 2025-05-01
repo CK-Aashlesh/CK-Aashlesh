@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ck-aashlesh&show_icons=true&locale=en" alt="ck-aashlesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ck-aashlesh&" alt="ck-aashlesh" /></p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/akshy-rai/count.svg?"  />
+</div>
